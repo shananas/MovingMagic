@@ -1,5 +1,7 @@
 name: Moving Magic
 originalAuthor: Shananas
+game: kh2
+description: Allows base sora to move around freely when using magic. wont work with other mods that edit base soras animations/msets 
 assets:
 - name: obj/P_EX100.mset
   method: copy
