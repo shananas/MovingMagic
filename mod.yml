@@ -1,0 +1,7 @@
+name: Moving Magic
+originalAuthor: Shananas
+assets:
+- name: obj/P_EX100.mset
+  method: copy
+  source:
+  - name: obj/P_EX100.mset
